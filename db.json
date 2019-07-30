@@ -9,8 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
    "questions": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "question": "some comment", "answer": "this is an answer", "dateAnswered":"2019-01-01" },
+    { "id": 2, "question": "some comment", "answer": "this is an answer", "dateAnswered":"2019-01-01" },
+         { "id": 3, "question": "some comment", "answer": "this is an answer", "dateAnswered":"2019-01-01" }
   ],
   "profile": {
     "name": "typicode"
