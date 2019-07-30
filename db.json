@@ -11,4 +11,7 @@
   "profile": {
     "name": "typicode"
   }
+  "questions":[
+      { "id": 1, "Question": "This is a question","answer":"Question is answered", "dateAnswered":"2019-01-01" },
+  ]
 }
